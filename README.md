@@ -1,4 +1,4 @@
-# Portfolio Website
-My personal portfolio site, showing off my projects, experience and extracurriculars.
+# Portfolio
 
-
+## Professional Statement
+My name is Jonnald Hernandez. I am an aspiring cybersecurity professional and computer science student for transfer at Skyline College with experience in help desk as an IT and web development. I am passionate about safeguarding digital environments and upholding he highest security standards. My hands-on experience in help desk support and web development has strengthened my technical foundation and understanding of real-world security challenges. I am proficient in UNIX/BASH and Python scripting, which enables me to automate tasks and conduct in-depth scurity assesssments effectively. Driven by a commitment to protect people and organizations, I am dedicated to advancing my skills in offensive security practices to anticipate and mitigate potential threats, ensuring resilient and secure systems. 
